@@ -1,10 +1,10 @@
 {	
 	"raceResult" : [	
 		{
-			age": 3,
-		    "ageCond": "연령오픈",
-		    "budam": "별정A",
-			"chulNo": 2,
+		"age": 3,
+		"ageCond": "연령오픈",
+		"budam": "별정A",
+		"chulNo": 2,
 		"hrName": "투어브라더",
 		"hrNo": "0039358",
 		"meet": "서울",
